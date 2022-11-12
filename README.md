@@ -1,10 +1,10 @@
 # Week 1 Challenge: Code Refactor
-This weeks homework, we are to refactor a starter code to read easily.
+The challenge we are given in week 1, is to refactor an existing code. The existing code given are placed in <div> element with its supporting value, in which our task is to modify using semantic elements.
 ## User Story
+I can best prepare for a scenario I'll encounter as a web developer by refactoring existing code.
+### Deployment Link
 
-### DEployment Link
-[Live]()
-
+https://joanavillajuan.github.io/week1-challenge/
 #### Screenshots
 ![Website]()
 
