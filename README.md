@@ -6,7 +6,8 @@ I can best prepare for a scenario I'll encounter as a web developer by refactori
 
 https://joanavillajuan.github.io/week1-challenge/
 #### Screenshots
-![Website]()
+The following image shows the web application's appearance and functionality:
 
+![Alt webpage-screenchot](assets/images/webpage-screenshot.%20Medium%202.jpeg)
 ##### Developer
-Joana
+Joana Villajuan
